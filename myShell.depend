@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604869003 source:/home/ubuntu/Desktop/new/myShell/main.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<limits.h>
+
